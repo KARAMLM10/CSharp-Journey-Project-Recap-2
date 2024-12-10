@@ -52,16 +52,32 @@
 //==================================================
 // Math-Class
 
-double x = 3.99;
-double y = 5;
+//double x = 3.99;
+//double y = 5;
 
-//double a = Math.Pow(x, 2);
-//double b = Math.Sqrt(x);
-//double c = Math.Abs(x);
-//double d = Math.Round(x);
-//double e = Math.Ceiling(x);
-//double f = Math.Floor(x);
-//double g = Math.Max(x, y);
-double h = Math.Min(x, y);
+////double a = Math.Pow(x, 2);
+////double b = Math.Sqrt(x);
+////double c = Math.Abs(x);
+////double d = Math.Round(x);
+////double e = Math.Ceiling(x);
+////double f = Math.Floor(x);
+////double g = Math.Max(x, y);
+//double h = Math.Min(x, y);
 
-Console.WriteLine(h);
+//Console.WriteLine(h);
+
+// =====================================================
+// Random Numbers
+// its how to genrate ranodm numbers with Random 
+Random random = new Random();
+//int num = random.Next(1, 21);
+//double num = random.NextDouble();
+int num1 = random.Next(1, 21);
+int num2 = random.Next(1, 21);
+int num3 = random.Next(1, 21);
+
+Console.WriteLine(num1);
+Console.WriteLine(num2);
+Console.WriteLine(num3);
+
+Console.WriteLine();
