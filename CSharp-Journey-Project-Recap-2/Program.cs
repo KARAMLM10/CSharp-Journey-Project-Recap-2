@@ -95,13 +95,15 @@
 //Console.WriteLine("the hypetotenuse is : " + c);
 //=======================================================
 // String Methods 
-using CSharp_Journey_Project_Recap_2.StringMethods;
+//using CSharp_Journey_Project_Recap_2.StringMethods;
 
-new StringMethods();
+//new StringMethods();
     
 
+//==============================================
+// IF Statements 
 
+using CSharp_Journey_Project_Recap_2.If;
 
-
-
+new IFStatements();
 
