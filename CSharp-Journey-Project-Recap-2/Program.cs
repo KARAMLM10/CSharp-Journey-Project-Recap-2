@@ -86,12 +86,22 @@
 //Calculator program
 // small calculate program (simple)
 
-Console.WriteLine("enter side A: ");
-double a = Convert.ToDouble(Console.ReadLine());
-Console.WriteLine("enter side B: ");
-double b = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("enter side A: ");
+//double a = Convert.ToDouble(Console.ReadLine());
+//Console.WriteLine("enter side B: ");
+//double b = Convert.ToDouble(Console.ReadLine());
 
-double c = Math.Sqrt((a*a) + (b*b));
-Console.WriteLine("the hypetotenuse is : " + c);
+//double c = Math.Sqrt((a*a) + (b*b));
+//Console.WriteLine("the hypetotenuse is : " + c);
+//=======================================================
+// String Methods 
+using CSharp_Journey_Project_Recap_2.StringMethods;
+
+new StringMethods();
+    
+
+
+
+
 
 
