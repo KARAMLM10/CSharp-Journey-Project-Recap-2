@@ -22,3 +22,4 @@ Console.WriteLine("your symbole is : " + symbol);
 
 string username = symbol + name;
 Console.WriteLine("your usernamne is : " + username);
+// Connecting Develope with Master
