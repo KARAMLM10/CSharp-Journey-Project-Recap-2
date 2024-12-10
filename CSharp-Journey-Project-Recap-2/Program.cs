@@ -29,6 +29,22 @@
 //double pi = 3.14159;
 //pi = 420;
 
-const double pi = 3.14159;
+//const double pi = 3.14159;
 
-Console.WriteLine(pi);
+//Console.WriteLine(pi);
+
+int friends = 5;
+//friends = friends + 2;
+//friends += 2;
+//friends ++;
+//friends = friends - 1; 
+//friends -= 1;
+//friends--;
+//friends = friends * 1;
+//friends *= 2;
+//friends = friends / 2;
+//friends /= 2;
+
+
+
+Console.WriteLine(friends);
