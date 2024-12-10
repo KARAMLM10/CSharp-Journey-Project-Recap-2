@@ -69,15 +69,29 @@
 // =====================================================
 // Random Numbers
 // its how to genrate ranodm numbers with Random 
-Random random = new Random();
-//int num = random.Next(1, 21);
-//double num = random.NextDouble();
-int num1 = random.Next(1, 21);
-int num2 = random.Next(1, 21);
-int num3 = random.Next(1, 21);
+//Random random = new Random();
+////int num = random.Next(1, 21);
+////double num = random.NextDouble();
+//int num1 = random.Next(1, 21);
+//int num2 = random.Next(1, 21);
+//int num3 = random.Next(1, 21);
 
-Console.WriteLine(num1);
-Console.WriteLine(num2);
-Console.WriteLine(num3);
+//Console.WriteLine(num1);
+//Console.WriteLine(num2);
+//Console.WriteLine(num3);
 
-Console.WriteLine();
+//Console.WriteLine();
+
+//================================================================
+//Calculator program
+// small calculate program (simple)
+
+Console.WriteLine("enter side A: ");
+double a = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine("enter side B: ");
+double b = Convert.ToDouble(Console.ReadLine());
+
+double c = Math.Sqrt((a*a) + (b*b));
+Console.WriteLine("the hypetotenuse is : " + c);
+
+
