@@ -122,7 +122,12 @@
 
 //==============================================
 // While Loops
-using CSharp_Journey_Project_Recap_2.Whileloops;
+//using CSharp_Journey_Project_Recap_2.Whileloops;
 
-new WhileLoops();
+//new WhileLoops();
+//==============================================
+// For Loop
 
+using CSharp_Journey_Project_Recap_2.ForLoop;
+
+new ForLoops();
