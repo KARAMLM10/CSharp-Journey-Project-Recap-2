@@ -98,12 +98,18 @@
 //using CSharp_Journey_Project_Recap_2.StringMethods;
 
 //new StringMethods();
-    
+
 
 //==============================================
 // IF Statements 
 
-using CSharp_Journey_Project_Recap_2.If;
+//using CSharp_Journey_Project_Recap_2.If;
 
-new IFStatements();
+//new IFStatements();
+//==============================================
+// Switches
+
+using CSharp_Journey_Project_Recap_2.Switches;
+
+new Switches();
 
