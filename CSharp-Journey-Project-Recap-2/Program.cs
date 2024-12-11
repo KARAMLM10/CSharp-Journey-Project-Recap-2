@@ -109,7 +109,13 @@
 //==============================================
 // Switches
 
-using CSharp_Journey_Project_Recap_2.Switches;
+//using CSharp_Journey_Project_Recap_2.Switches;
 
-new Switches();
+//new Switches();
 
+//==============================================
+// Logical Operators
+
+using CSharp_Journey_Project_Recap_2.LogicalOperators;
+
+new LogicalOperators();
