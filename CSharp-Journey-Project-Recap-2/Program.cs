@@ -116,6 +116,13 @@
 //==============================================
 // Logical Operators
 
-using CSharp_Journey_Project_Recap_2.LogicalOperators;
+//using CSharp_Journey_Project_Recap_2.LogicalOperators;
 
-new LogicalOperators();
+//new LogicalOperators();
+
+//==============================================
+// While Loops
+using CSharp_Journey_Project_Recap_2.Whileloops;
+
+new WhileLoops();
+
