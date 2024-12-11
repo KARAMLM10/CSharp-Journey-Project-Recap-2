@@ -133,6 +133,11 @@
 //new ForLoops();
 //==============================================
 // Nested Loops
-using CSharp_Journey_Project_Recap_2.Nestedloops;
+//using CSharp_Journey_Project_Recap_2.Nestedloops;
 
-new NestedLoops();
+//new NestedLoops();
+//==============================================
+// NumberGuessing Game 
+using CSharp_Journey_Project_Recap_2.Numberguessinggame;
+
+new NumberGuessingGame();
